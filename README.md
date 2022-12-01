@@ -2,7 +2,10 @@
 ### Hi, I am Paulo 👋
 - 🔭 I’m currently working in my pessoal projects
 - 🌱 I’m currently learning NodeJs, Typescript, ReactJs and React Native
--  <img width="18"  src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png"/> i´m brazilian
+-  <img width="18"  src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png"/> i´m brazilian <br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/paulohenf7/)
+[![Gmail Badge](https://img.shields.io/badge/-paulohensbs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulohensbs@gmail.com)](mailto:paulohensbs@gmail.com)
 
 # 📊 GitHub Stats
 
