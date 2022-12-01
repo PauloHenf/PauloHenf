@@ -9,8 +9,8 @@
 <br/>
   <div align="center">
     <a href="https://github.com/PauloHenf?tab=repositories">
-    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulohenf&theme=great-gatsby&hide_border=false"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenf&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulohenf&theme=great-gatsby&hide_border=false"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenf&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </div>
 <br/>
 
