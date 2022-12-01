@@ -25,4 +25,3 @@
   </div>
 <br/>
 
-# 💻 Tech Stack
